@@ -1,2 +1,2 @@
 # Python
-Repositórios dos códigos feitos em Python
+Repositórios dos códigos feitos em Python.
